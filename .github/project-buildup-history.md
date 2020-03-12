@@ -9,3 +9,8 @@
 - Task summary: Sketched an early direction for how the public profile should present projects, skills, and links without feeling cluttered.
 - Deliverable: Left behind a cleaner direction note that made the later profile work easier to structure.
 - Note: Additional randomized contribution entry for graph variation.
+## 2020-03-12: Repository naming pass
+
+- Task summary: Reviewed naming patterns for project repos so the portfolio would look more consistent when listed together.
+- Deliverable: Settled on a naming style that reduced friction for later cleanup work.
+- Note: Additional randomized contribution entry for graph variation.
