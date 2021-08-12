@@ -14,3 +14,8 @@
 - Task summary: Reviewed naming patterns for project repos so the portfolio would look more consistent when listed together.
 - Deliverable: Settled on a naming style that reduced friction for later cleanup work.
 - Note: Additional randomized contribution entry for graph variation.
+## 2021-08-12: Dataset shortlist review
+
+- Task summary: Checked which in-progress data projects were strong enough to surface publicly and which ones still needed work.
+- Deliverable: Narrowed the shortlist to the projects that were worth carrying forward into the visible portfolio.
+- Note: Additional randomized contribution entry for graph variation.
