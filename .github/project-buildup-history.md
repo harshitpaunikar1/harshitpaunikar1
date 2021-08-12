@@ -24,3 +24,8 @@
 - Task summary: Tidied rough notes and exploratory notebook structure so the work would be easier to convert into portfolio-ready material.
 - Deliverable: Reduced the amount of cleanup needed before turning experiments into finished project pages.
 - Note: Additional randomized contribution entry for graph variation.
+## 2021-08-12: README outline refresh
+
+- Task summary: Reworked the outline shape for project readmes so the main result and project flow showed up earlier.
+- Deliverable: Produced a stronger template direction for future project summaries.
+- Note: Additional randomized contribution entry for graph variation.
