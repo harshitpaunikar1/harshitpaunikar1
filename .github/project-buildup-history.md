@@ -46,3 +46,7 @@
 
 - Task summary: This was the middle stretch where the project started feeling real. I kept going and tried to collect badges, social links, screenshots, and repo references for the profile page, then cleaned up whatever looked confusing or weak from the earlier days. By now I had enough structure to keep going without staring at the screen too long, which honestly helped a lot. The main job was making the profile feel clear without turning it into a wall of text.
 - Deliverable: Ended the day with asset list in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2023-01-05 - Day 4: README build
+
+- Task summary: This was the middle stretch where the project started feeling real. I kept going and tried to create a polished README layout with sections for work, skills, and contact info, then cleaned up whatever looked confusing or weak from the earlier days. I was not trying to add anything fancy here, just making sure the thing looked complete enough to show someone. This looked simple on paper, but getting the tone right took a bit of back and forth.
+- Deliverable: Ended the day with structured README draft in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
