@@ -16,3 +16,7 @@
 
 - Phase: Profile assets pass
 - Deliverable: Ended the day with asset list in hand, plus a few side notes on what still needed fixing later. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2023-01-05 - Day 4: This was the middle stretch where the project started feeling real. I kept going and tried to create a polished README layout with sections for work, skills, and contact info, then cleaned up whatever looked confusing or weak from the earlier days. I was not trying to add anything fancy here, just making sure the thing looked complete enough to show someone. This looked simple on paper, but getting the tone right took a bit of back and forth.
+
+- Phase: README build
+- Deliverable: Ended the day with structured README draft in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
