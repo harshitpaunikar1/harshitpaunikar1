@@ -20,3 +20,7 @@
 
 - Phase: README build
 - Deliverable: Ended the day with structured README draft in hand, plus a few side notes on what still needed fixing later. It was not super polished, just stable enough that I felt okay moving forward.
+## 2023-01-06 - Day 5: Closer to the end, I was mostly tightening things up instead of inventing new scope. The job for the day was to proofread formatting, broken links, and readability for someone seeing the profile for the frist time so the final result looked a bit more complete. Most of the heavy lifting was already done, so this part was more about making the rough edges less obvious. I kept trimming lines that felt too stiff or too long so the profile would read more naturally.
+
+- Phase: Review check
+- Deliverable: Ended the day with reviewed profile README in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
