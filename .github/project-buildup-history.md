@@ -28,3 +28,7 @@
 
 - Task summary: Saturday morning — couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
 - Deliverable: Should've caught it earlier but better now than later.
+## 2023-01-09 - Day 6: Polish wrap
+
+- Task summary: Used the last day on Harshit Paunikar to slow down and finish the loose ends. I mainly had to tighten wording and reorder sections so the strongest work appears first and make sure the project told a clean story from start to finish. Toward the end I mostly kept trimming weird bits, fixing wording, and tying the loose parts together. The main job was making the profile feel clear without turning it into a wall of text.
+- Deliverable: Finished with final profile README looking decent enough to call this version done, even if I could still nitpick a few things. There were still a couple of loose parts, but nothing serious enough to block the next step.
