@@ -24,3 +24,7 @@
 
 - Phase: Review check
 - Deliverable: Ended the day with reviewed profile README in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
+## 2023-01-09 - Day 6: Used the last day on Harshit Paunikar to slow down and finish the loose ends. I mainly had to tighten wording and reorder sections so the strongest work appears first and make sure the project told a clean story from start to finish. Toward the end I mostly kept trimming weird bits, fixing wording, and tying the loose parts together. The main job was making the profile feel clear without turning it into a wall of text.
+
+- Phase: Polish wrap
+- Deliverable: Finished with final profile README looking decent enough to call this version done, even if I could still nitpick a few things. There were still a couple of loose parts, but nothing serious enough to block the next step.
