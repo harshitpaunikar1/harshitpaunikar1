@@ -32,3 +32,7 @@
 
 - Task summary: Used the last day on Harshit Paunikar to slow down and finish the loose ends. I mainly had to tighten wording and reorder sections so the strongest work appears first and make sure the project told a clean story from start to finish. Toward the end I mostly kept trimming weird bits, fixing wording, and tying the loose parts together. The main job was making the profile feel clear without turning it into a wall of text.
 - Deliverable: Finished with final profile README looking decent enough to call this version done, even if I could still nitpick a few things. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2023-01-09 - Day 6: Polish wrap
+
+- Task summary: After stepping away for a bit, came back and went back and reorganized the config section so values are not buried mid-script.
+- Deliverable: Pushed before end of day.
