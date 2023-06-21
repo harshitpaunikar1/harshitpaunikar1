@@ -63,3 +63,8 @@
 - Task summary: Mapped the content order for selected case studies so the strongest problem-solution flow came first.
 - Deliverable: Created a content sequence that made later portfolio assembly much more straightforward.
 - Note: Additional randomized contribution entry for graph variation.
+## 2023-06-21: Link audit
+
+- Task summary: Ran through portfolio references and outbound project links to catch stale paths and weak labels.
+- Deliverable: Finished with a smaller set of cleaner links that were safer to expose publicly.
+- Note: Additional randomized contribution entry for graph variation.
