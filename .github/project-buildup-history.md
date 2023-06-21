@@ -58,3 +58,8 @@
 
 - Task summary: Used the last day on Harshit Paunikar to slow down and finish the loose ends. I mainly had to tighten wording and reorder sections so the strongest work appears first and make sure the project told a clean story from start to finish. Toward the end I mostly kept trimming weird bits, fixing wording, and tying the loose parts together. The main job was making the profile feel clear without turning it into a wall of text.
 - Deliverable: Finished with final profile README looking decent enough to call this version done, even if I could still nitpick a few things. There were still a couple of loose parts, but nothing serious enough to block the next step.
+## 2023-06-21: Case study content map
+
+- Task summary: Mapped the content order for selected case studies so the strongest problem-solution flow came first.
+- Deliverable: Created a content sequence that made later portfolio assembly much more straightforward.
+- Note: Additional randomized contribution entry for graph variation.
