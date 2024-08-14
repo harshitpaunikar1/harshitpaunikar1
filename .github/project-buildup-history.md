@@ -78,3 +78,8 @@
 - Task summary: Tightened copy around dashboard-oriented work so the value proposition showed up before the implementation details.
 - Deliverable: Ended with more direct language that better matched how the projects should be read.
 - Note: Additional randomized contribution entry for graph variation.
+## 2024-08-14: Release checklist
+
+- Task summary: Ran a lightweight checklist across portfolio-facing material to keep naming, assets, and surface polish aligned.
+- Deliverable: Reduced presentation inconsistencies before the next visible update wave.
+- Note: Additional randomized contribution entry for graph variation.
