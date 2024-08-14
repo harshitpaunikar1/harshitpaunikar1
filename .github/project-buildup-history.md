@@ -68,3 +68,8 @@
 - Task summary: Ran through portfolio references and outbound project links to catch stale paths and weak labels.
 - Deliverable: Finished with a smaller set of cleaner links that were safer to expose publicly.
 - Note: Additional randomized contribution entry for graph variation.
+## 2024-08-14: Workflow edge-case notes
+
+- Task summary: Documented a few operational edge cases from product-style projects so their writeups felt more grounded.
+- Deliverable: Added practical notes that improved the credibility of the portfolio narratives.
+- Note: Additional randomized contribution entry for graph variation.
