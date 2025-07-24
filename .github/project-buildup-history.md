@@ -83,3 +83,8 @@
 - Task summary: Ran a lightweight checklist across portfolio-facing material to keep naming, assets, and surface polish aligned.
 - Deliverable: Reduced presentation inconsistencies before the next visible update wave.
 - Note: Additional randomized contribution entry for graph variation.
+## 2025-07-24: HTML scaffold
+
+- Task summary: Set up a cleaner starting structure for a portfolio-facing page update so later refinements would move faster.
+- Deliverable: Finished with a more usable shell that could support the next round of content work.
+- Note: Additional randomized contribution entry for graph variation.
