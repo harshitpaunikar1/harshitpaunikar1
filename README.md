@@ -28,12 +28,6 @@ I work across LLM systems, edge AI, computer vision, real-time communication, ba
 
 ## Dynamic Dev Metrics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-<!--END_SECTION:waka-simple-->
-
 <!--START_SECTION:year-progress-->
 Year Progress: [#########---------------------] 31.45% as on 25-Apr-2026 UTC
 <!--END_SECTION:year-progress-->
