@@ -22,6 +22,19 @@
 | **AI / ML Focus** | LLMs, RAG, prompt systems, vector search, edge AI, computer vision, OCR, and real-time voice workflows |
 | **Experience** | 7 years in production engineering and 6+ years in data science across healthcare, logistics, banking, marketing, mobility, education, and internal platforms |
 
+## Career Timeline
+
+A concise view of the broader engineering and AI journey behind the GitHub-visible work. This is a career and learning timeline, not GitHub contribution history.
+
+| Year / Range | Focus / Milestone | Related Skills |
+| --- | --- | --- |
+| `2015-2017` | Engineering foundation and academic build-up leading into advanced technical study, with early full-stack and programming depth forming the base for later AI work | `Python`, `C#`, `JavaScript`, `SQL`, `HTML`, `CSS`, `Backend Development`, `Frontend Development` |
+| `2018-2019` | Data science and machine learning deepening, anchored by the IIIT Bangalore postgraduate journey and stronger applied ML fundamentals | `Machine Learning`, `Statistical Modeling`, `Feature Engineering`, `Scikit-learn`, `Pandas`, `NumPy`, `Model Evaluation` |
+| `2020-2021` | Logistics-heavy build phase focused on computer vision, OCR, edge deployment, and operational systems for real-world field workflows | `Computer Vision`, `OCR`, `OpenCV`, `Tesseract OCR`, `Object Detection`, `Edge AI Deployment`, `SQLite`, `REST API Design` |
+| `2022-2023` | Production engineering and platform expansion across logistics, banking, marketing, and internal platforms through backend systems, integrations, streaming, and delivery workflows | `FastAPI`, `.NET`, `Flask`, `NodeJS`, `Microservices Architecture`, `WebRTC`, `WebSockets`, `Docker`, `CI/CD Pipelines` |
+| `2024-2025` | Shift into LLM systems, RAG, prompt engineering, on-prem AI, agentic workflows, and voice-first real-time AI systems | `LLMs`, `RAG Pipelines`, `LangChain`, `Prompt Engineering`, `Vector Search`, `Embeddings`, `LiveKit`, `Voice AI`, `On-Premises LLM Hosting` |
+| `2026` | Current direction centered on practical AI systems, edge deployment, real-time intelligence, evaluation, and production-grade AI engineering | `AI Engineering`, `LLM Evaluation`, `Edge AI`, `ONNX`, `TFLite`, `Guardrails`, `Model Evaluation`, `Deployment on Clouds` |
+
 ## Professional Summary
 
 I build AI systems that are meant to be deployed, operated, and trusted in real workflows, not left as demos. My work sits at the intersection of applied machine learning, backend engineering, edge deployment, and product-minded delivery.
