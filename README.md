@@ -34,16 +34,28 @@ I build AI systems that are meant to be deployed, operated, and trusted in real 
 
 ### Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpaunikar1&theme=github)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpaunikar1&theme=github" alt="GitHub profile details">
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitpaunikar1&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitpaunikar1&theme=github&utcOffset=5.5)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitpaunikar1&theme=github" alt="GitHub stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitpaunikar1&theme=github&utcOffset=5.5" alt="GitHub productive time">
+</p>
 
 ### Contribution Flow
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=harshitpaunikar1&theme=transparent&hide_border=true)](https://github.com/harshitpaunikar1)
+<p align="center">
+  <a href="https://github.com/harshitpaunikar1">
+    <img src="https://streak-stats.demolab.com?user=harshitpaunikar1&theme=transparent&hide_border=true" alt="GitHub streak">
+  </a>
+</p>
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitpaunikar1&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/harshitpaunikar1)
+<p align="center">
+  <a href="https://github.com/harshitpaunikar1">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpaunikar1&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph">
+  </a>
+</p>
 
 <!--START_SECTION:year-progress-->
 ### Year Progress
