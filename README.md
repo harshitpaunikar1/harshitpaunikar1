@@ -1,6 +1,6 @@
 # Harshit Paunikar
 
-AI/ML engineer and full-stack builder with 7 years of production engineering and 6+ years of data science experience. I work across LLM systems, edge AI, computer vision, real-time communication, backend systems, and product-minded engineering delivery.
+AI/ML engineer and full-stack builder with 7 years of production engineering and 6+ years of data science experience.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-harshitpaunikar1.github.io-111111?style=for-the-badge)](https://harshitpaunikar1.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh2025-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh2025)
@@ -12,9 +12,9 @@ AI/ML engineer and full-stack builder with 7 years of production engineering and
 
 Good at figuring things out. Better at getting them done.
 
-I bring AI/ML, full-stack engineering, and engineering-lead experience to every engagement. My work usually sits at the point where models, systems, product constraints, and business outcomes all meet.
+I work across LLM systems, edge AI, computer vision, real-time communication, backend systems, and product-minded engineering delivery. My focus is practical AI that can be shipped, maintained, and made useful in real workflows.
 
-- Built and shipped AI systems across logistics, healthcare, banking, marketing, mobility, education, and internal tooling.
+- Built AI systems across logistics, healthcare, banking, marketing, mobility, education, and internal tooling.
 - Strong across `Python`, `C#`, `JavaScript`, `TypeScript`, `FastAPI`, `.NET`, `Flask`, `Node.js`, `Docker`, and production-facing ML workflows.
 - Comfortable with `LLMs`, `RAG`, `prompt engineering`, `LangChain`, `vector search`, `edge AI`, `ONNX`, `TFLite`, `WebRTC`, `GStreamer`, and `real-time voice pipelines`.
 
@@ -25,6 +25,18 @@ I bring AI/ML, full-stack engineering, and engineering-lead experience to every 
 - Computer vision and OCR pipelines
 - Real-time voice, streaming, and browser communication systems
 - Backend APIs, integrations, and deployment-ready engineering workflows
+
+## Dynamic Dev Metrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
+<!--START_SECTION:year-progress-->
+Year Progress: [#########---------------------] 31.45% as on 25-Apr-2026 UTC
+<!--END_SECTION:year-progress-->
 
 ## Featured Projects
 
@@ -65,12 +77,10 @@ I bring AI/ML, full-stack engineering, and engineering-lead experience to every 
 
 ## Current Direction
 
-Right now I am especially interested in:
-
-- practical AI systems that can be shipped, not just demoed
-- voice and real-time AI experiences
-- edge deployment and low-latency inference
-- grounded assistants with clearer trust and operational behavior
+- Practical AI systems that can be shipped, not just demoed
+- Voice and real-time AI experiences
+- Edge deployment and low-latency inference
+- Grounded assistants with clearer trust and operational behavior
 
 ## Find More
 
