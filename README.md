@@ -14,22 +14,13 @@
 
 ## Profile Snapshot
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Education</h3>
-      <p>IIT Madras<br>IIM Indore<br>IIIT Bangalore</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>AI / ML Focus</h3>
-      <p>LLMs, RAG, prompt systems, vector search, edge AI, computer vision, OCR, real-time voice, and browser-first AI workflows.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Experience</h3>
-      <p>7 years in production engineering and 6+ years in data science, shipping practical systems across healthcare, logistics, banking, marketing, mobility, education, and internal platforms.</p>
-    </td>
-  </tr>
-</table>
+> Applied AI engineer focused on building production-ready systems across LLMs, edge AI, computer vision, and real-time communication.
+
+| Area | Summary |
+| --- | --- |
+| **Education** | IIT Madras, IIM Indore, IIIT Bangalore |
+| **AI / ML Focus** | LLMs, RAG, prompt systems, vector search, edge AI, computer vision, OCR, and real-time voice workflows |
+| **Experience** | 7 years in production engineering and 6+ years in data science across healthcare, logistics, banking, marketing, mobility, education, and internal platforms |
 
 ## Professional Summary
 
