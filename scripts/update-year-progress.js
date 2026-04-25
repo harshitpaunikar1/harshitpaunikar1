@@ -12,7 +12,8 @@ const progress = (Date.now() - start) / (end - start);
 const clamped = Math.max(0, Math.min(progress, 1));
 const width = 30;
 const filled = Math.floor(clamped * width);
-const bar = "[" + "#".repeat(filled) + "-".repeat(width - filled) + "]";
+const bar = "█".repeat(filled) + "░".repeat(width - filled);
+const percentText = `${(clamped * 100).toFixed(2)}%`;
 const dateText = now.toLocaleDateString("en-GB", {
   timeZone: "UTC",
   day: "2-digit",
@@ -20,7 +21,16 @@ const dateText = now.toLocaleDateString("en-GB", {
   year: "numeric",
 }).replace(/ /g, "-");
 
-const section = `Year Progress: ${bar} ${(clamped * 100).toFixed(2)}% as on ${dateText} UTC`;
+const badgeUrl = `https://img.shields.io/badge/${year}%20Progress-${encodeURIComponent(percentText)}-111111?style=for-the-badge`;
+const section = [
+  `### Year Progress`,
+  ``,
+  `![${year} Progress](${badgeUrl})`,
+  ``,
+  `\`${bar}\` **${percentText}**`,
+  ``,
+  `Updated: \`${dateText} UTC\``
+].join("\n");
 
 const updated = readme.replace(
   /<!--START_SECTION:year-progress-->[\s\S]*?<!--END_SECTION:year-progress-->/,

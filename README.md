@@ -29,7 +29,13 @@ I work across LLM systems, edge AI, computer vision, real-time communication, ba
 ## Dynamic Dev Metrics
 
 <!--START_SECTION:year-progress-->
-Year Progress: [#########---------------------] 31.45% as on 25-Apr-2026 UTC
+### Year Progress
+
+![2026 Progress](https://img.shields.io/badge/2026%20Progress-31.45%25-111111?style=for-the-badge)
+
+`█████████░░░░░░░░░░░░░░░░░░░░░` **31.45%**
+
+Updated: `25-Apr-2026 UTC`
 <!--END_SECTION:year-progress-->
 
 ## Featured Projects
