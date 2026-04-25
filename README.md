@@ -1,34 +1,47 @@
 # Harshit Paunikar
 
-AI/ML engineer and full-stack builder with 7 years of production engineering and 6+ years of data science experience.
+<p align="center">
+  AI/ML Engineer • Full-Stack Builder • Production-Focused Problem Solver
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshitpaunikar1.github.io-111111?style=for-the-badge)](https://harshitpaunikar1.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harsh2025-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh2025)
-[![Kaggle](https://img.shields.io/badge/Kaggle-harshitpaunikar1-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/harshitpaunikar1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-harshitpaunikar1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/harshitpaunikar1)
-[![HackerRank](https://img.shields.io/badge/HackerRank-harshitpaunikar1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/harshitpaunikar1)
+<p align="center">
+  <a href="https://harshitpaunikar1.github.io"><img src="https://img.shields.io/badge/Portfolio-harshitpaunikar1.github.io-111111?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/harsh2025"><img src="https://img.shields.io/badge/LinkedIn-harsh2025-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/harshitpaunikar1"><img src="https://img.shields.io/badge/Kaggle-harshitpaunikar1-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://leetcode.com/harshitpaunikar1"><img src="https://img.shields.io/badge/LeetCode-harshitpaunikar1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://www.hackerrank.com/harshitpaunikar1"><img src="https://img.shields.io/badge/HackerRank-harshitpaunikar1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"></a>
+</p>
 
-## About
+## Profile Snapshot
 
-Good at figuring things out. Better at getting them done.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Education</h3>
+      <p>IIT Madras<br>IIM Indore<br>IIIT Bangalore</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>AI / ML Focus</h3>
+      <p>LLMs, RAG, prompt systems, vector search, edge AI, computer vision, OCR, real-time voice, and browser-first AI workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Experience</h3>
+      <p>7 years in production engineering and 6+ years in data science, shipping practical systems across healthcare, logistics, banking, marketing, mobility, education, and internal platforms.</p>
+    </td>
+  </tr>
+</table>
 
-I work across LLM systems, edge AI, computer vision, real-time communication, backend systems, and product-minded engineering delivery. My focus is practical AI that can be shipped, maintained, and made useful in real workflows.
+## Professional Summary
 
-- Built AI systems across logistics, healthcare, banking, marketing, mobility, education, and internal tooling.
-- Strong across `Python`, `C#`, `JavaScript`, `TypeScript`, `FastAPI`, `.NET`, `Flask`, `Node.js`, `Docker`, and production-facing ML workflows.
-- Comfortable with `LLMs`, `RAG`, `prompt engineering`, `LangChain`, `vector search`, `edge AI`, `ONNX`, `TFLite`, `WebRTC`, `GStreamer`, and `real-time voice pipelines`.
+I build AI systems that are meant to be deployed, operated, and trusted in real workflows, not left as demos. My work sits at the intersection of applied machine learning, backend engineering, edge deployment, and product-minded delivery.
 
-## What I Build
+**Core stack:** `Python` `C#` `JavaScript` `TypeScript` `FastAPI` `.NET` `Flask` `Node.js` `Docker`
 
-- LLM-powered assistants, RAG systems, and tool-using AI workflows
-- Edge AI and on-device inference systems
-- Computer vision and OCR pipelines
-- Real-time voice, streaming, and browser communication systems
-- Backend APIs, integrations, and deployment-ready engineering workflows
+**Specialized areas:** `LLMs` `RAG` `LangChain` `prompt engineering` `vector search` `ONNX` `TFLite` `WebRTC` `GStreamer` `LiveKit`
 
-## Dynamic Dev Metrics
+## GitHub Stats
 
-### GitHub Overview
+### Overview
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpaunikar1&theme=github)
 
@@ -56,52 +69,38 @@ Updated: `25-Apr-2026 UTC`
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## Featured Projects
+## Work Areas
 
-- [Windows CPU-Only Offline AI Application](https://github.com/harshitpaunikar1/windows-offline-ai-app)  
-  Offline AI on standard Windows hardware with local inference, OCR, structured capture, and resilient sync.
-
-- [Android Edge Vision for Logistics](https://github.com/harshitpaunikar1/android-edge-vision-logistics)  
-  On-device inspection and detection workflows tuned for mid-range Android devices.
-
-- [Medical Evidence Q&A Assistant](https://github.com/harshitpaunikar1/medical-evidence-qa-assistant)  
-  Safety-aware medical RAG workflow built around evidence, citations, and refusal behavior.
-
-- [Reliable Browser Video Calling](https://github.com/harshitpaunikar1/reliable-browser-video-calling)  
-  One-to-one WebRTC calling with TURN fallback for restrictive real-world networks.
-
-- [Real-Time Voice Agent](https://github.com/harshitpaunikar1/realtime-voice-agent)  
-  LiveKit-based voice pipeline connecting STT, LLM reasoning, and TTS into one conversational loop.
-
-- [Private Search Research Assistant](https://github.com/harshitpaunikar1/private-search-research-assistant)  
-  Source-backed AI search workflow using aggregation, deduplication, extraction, and short summaries.
-
-## Core Areas
-
-| Area | Focus |
+| Area | What I Build |
 | --- | --- |
-| `Generative AI` | LLM assistants, prompt systems, RAG, tool use, grounded generation |
-| `Edge AI` | ONNX Runtime, TensorRT, TensorFlow Lite, runtime optimization, deployment tradeoffs |
-| `Computer Vision` | OCR, object detection, image pipelines, browser-based and on-device inference |
-| `Real-Time Systems` | WebRTC, TURN/STUN, streaming pipelines, LiveKit, audio/video workflows |
-| `Backend Engineering` | FastAPI, Flask, .NET, Node.js, APIs, integrations, automation |
-| `DevOps / Delivery` | Docker, CI/CD, monitoring, deployment pipelines, rollback-aware delivery |
+| `Generative AI` | LLM assistants, grounded generation, tool-using agents, prompt workflows |
+| `RAG Systems` | Retrieval pipelines, source-backed answering, document intelligence, citation-aware assistants |
+| `Edge AI` | Runtime optimization, device-aware inference, ONNX Runtime, TensorRT, TensorFlow Lite |
+| `Computer Vision` | OCR, image processing, object detection, browser and on-device CV workflows |
+| `Real-Time Systems` | WebRTC, TURN/STUN, media streaming, LiveKit, audio and video pipelines |
+| `Backend Engineering` | APIs, integrations, orchestration services, automation, production-facing backend systems |
+| `Delivery` | Docker, deployment pipelines, CI/CD, monitoring, rollback-aware releases |
 
-## Education
+## Selected Projects
 
-- IIT Madras
-- IIM Indore
-- IIIT Bangalore
+| Project | Focus |
+| --- | --- |
+| [Windows CPU-Only Offline AI Application](https://github.com/harshitpaunikar1/windows-offline-ai-app) | Local inference, OCR, structured capture, and resilient offline-first sync on standard Windows hardware |
+| [Android Edge Vision for Logistics](https://github.com/harshitpaunikar1/android-edge-vision-logistics) | On-device inspection and detection workflows tuned for mid-range Android devices |
+| [Medical Evidence Q&A Assistant](https://github.com/harshitpaunikar1/medical-evidence-qa-assistant) | Safety-aware medical RAG with evidence retrieval, citations, and refusal behavior |
+| [Reliable Browser Video Calling](https://github.com/harshitpaunikar1/reliable-browser-video-calling) | One-to-one WebRTC calling with TURN fallback for restrictive real-world networks |
+| [Real-Time Voice Agent](https://github.com/harshitpaunikar1/realtime-voice-agent) | LiveKit-based conversational voice pipeline connecting STT, LLM reasoning, and TTS |
+| [Private Search Research Assistant](https://github.com/harshitpaunikar1/private-search-research-assistant) | Source-backed search workflow using aggregation, extraction, deduplication, and summaries |
 
 ## Current Direction
 
-- Practical AI systems that can be shipped, not just demoed
-- Voice and real-time AI experiences
+- Practical AI systems that can be deployed and maintained with clear operational behavior
+- Voice-first and real-time AI experiences
 - Edge deployment and low-latency inference
-- Grounded assistants with clearer trust and operational behavior
+- Applied AI products grounded in actual workflow value
 
-## Find More
+## Connect
 
 - Portfolio: [harshitpaunikar1.github.io](https://harshitpaunikar1.github.io)
-- GitHub Projects: [github.com/harshitpaunikar1](https://github.com/harshitpaunikar1)
+- GitHub: [github.com/harshitpaunikar1](https://github.com/harshitpaunikar1)
 - LinkedIn: [linkedin.com/in/harsh2025](https://www.linkedin.com/in/harsh2025)
