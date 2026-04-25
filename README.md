@@ -35,9 +35,6 @@ I work across LLM systems, edge AI, computer vision, real-time communication, ba
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitpaunikar1&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitpaunikar1&theme=github&utcOffset=5.5)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitpaunikar1&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitpaunikar1&theme=github)
-
 ### Contribution Flow
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=harshitpaunikar1&theme=transparent&hide_border=true)](https://github.com/harshitpaunikar1)
