@@ -28,6 +28,22 @@ I work across LLM systems, edge AI, computer vision, real-time communication, ba
 
 ## Dynamic Dev Metrics
 
+### GitHub Overview
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitpaunikar1&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitpaunikar1&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitpaunikar1&theme=github&utcOffset=5.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitpaunikar1&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitpaunikar1&theme=github)
+
+### Contribution Flow
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=harshitpaunikar1&theme=transparent&hide_border=true)](https://github.com/harshitpaunikar1)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitpaunikar1&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/harshitpaunikar1)
+
 <!--START_SECTION:year-progress-->
 ### Year Progress
 
@@ -37,6 +53,11 @@ I work across LLM systems, edge AI, computer vision, real-time communication, ba
 
 Updated: `25-Apr-2026 UTC`
 <!--END_SECTION:year-progress-->
+
+### Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## Featured Projects
 
