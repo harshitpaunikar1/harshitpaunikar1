@@ -64,18 +64,26 @@ I build AI systems that are meant to be deployed, operated, and trusted in real 
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/harshitpaunikar1">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitpaunikar1&theme=github-compact&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph">
-  </a>
-</p>
+<!--START_SECTION:lifetime-contributions-->
+#### 2020 To Present
+
+![Lifetime contribution chart](./assets/lifetime-contributions.svg)
+
+**Total contributions since 2020:** `Updating...`
+
+| Year | Contributions |
+| --- | ---: |
+| 2020 | Pending |
+
+Updated: `Pending`
+<!--END_SECTION:lifetime-contributions-->
 
 <!--START_SECTION:year-progress-->
 ### Year Progress
 
-![2026 Progress](https://img.shields.io/badge/2026%20Progress-31.83%25-111111?style=for-the-badge)
+![2026 Progress](https://img.shields.io/badge/2026%20Progress-31.87%25-111111?style=for-the-badge)
 
-`█████████░░░░░░░░░░░░░░░░░░░░░` **31.83%**
+`█████████░░░░░░░░░░░░░░░░░░░░░` **31.87%**
 
 Updated: `27-Apr-2026 UTC`
 <!--END_SECTION:year-progress-->
