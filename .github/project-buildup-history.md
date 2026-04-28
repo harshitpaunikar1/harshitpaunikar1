@@ -26,7 +26,7 @@
 - Deliverable: Ended the day with reviewed profile README in hand, plus a few side notes on what still needed fixing later. I also left myself a few rough reminders for the next day so I would not have to rediscover the same context again.
 ## 2023-01-07 - Day 4: README build
 
-- Task summary: Saturday morning — couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
+- Task summary: Saturday morning - couldn't stop thinking about the edge case from Friday. Opened the notebook and patched it before I forgot.
 - Deliverable: Should've caught it earlier but better now than later.
 ## 2023-01-09 - Day 6: Polish wrap
 
@@ -38,9 +38,9 @@
 - Deliverable: Pushed before end of day.
 ## 2023-01-09 - Day 6: Polish wrap
 
-- Task summary: One more pass: pushed a tiny fix after a teammate's comment — nothing major, just a wording issue in the output.
+- Task summary: One more pass: pushed a tiny fix after a teammate's comment - nothing major, just a wording issue in the output.
 - Deliverable: Should've caught it earlier but better now than later.
 ## 2023-01-09 - Day 6: Polish wrap
 
-- Task summary: Ended up revisiting this in the evening — spent time just reading back through everything to make sure it still made sense end to end.
+- Task summary: Ended up revisiting this in the evening - spent time just reading back through everything to make sure it still made sense end to end.
 - Deliverable: One of those satisfying small wins.
