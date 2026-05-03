@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://harshitpaunikar1.github.io"><img src="https://img.shields.io/badge/Portfolio-harshitpaunikar1.github.io-111111?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/harsh2025"><img src="https://img.shields.io/badge/LinkedIn-harsh2025-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/harshits7plus"><img src="https://img.shields.io/badge/LeetCode-harshitpaunikar1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/harshit_paunikar"><img src="https://img.shields.io/badge/LeetCode-harshitpaunikar1-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
  
 ## Profile Snapshot
