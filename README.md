@@ -67,7 +67,7 @@ I build AI systems that are meant to be deployed, operated, and trusted in real 
 
 ![Lifetime contribution chart](./assets/lifetime-contributions.svg)
 
-**Total contributions since 2020:** `2,736`
+**Total contributions since 2020:** `2,747`
 
 | Year | Contributions |
 | --- | ---: |
@@ -77,9 +77,9 @@ I build AI systems that are meant to be deployed, operated, and trusted in real 
 | 2023 | 532 |
 | 2024 | 501 |
 | 2025 | 588 |
-| 2026 | 89 |
+| 2026 | 100 |
 
-Updated: `2026-07-16 UTC`
+Updated: `2026-07-17 UTC`
 <!--END_SECTION:lifetime-contributions-->
 
 <!--START_SECTION:year-progress-->
